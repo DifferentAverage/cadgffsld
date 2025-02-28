@@ -60,3 +60,5 @@ payload:
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
   - DOMAIN-SUFFIX,ulol.com
+  - PROCESS-NAME,RiotClientServices.exe,Riot
+  - DOMAIN-SUFFIX,riotgames.com,Riot
