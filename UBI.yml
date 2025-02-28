@@ -10,3 +10,8 @@ payload:
   - DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,uplay.com
+  - DOMAIN-SUFFIX,ubistatic2-a.akamaihd.net,Ubisoft
+  - DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net,Ubisoft
+  - DOMAIN-SUFFIX,unpkg.com,Ubisoft
+  - DOMAIN-SUFFIX,ubi.li,Ubisoft
+  - DOMAIN-SUFFIX,ubisoft-avatars.akamaized.net,Ubisoft
