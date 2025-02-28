@@ -10,6 +10,7 @@
 # IP-CIDR6: 12161
 # PROCESS-NAME: 14
 # TOTAL: 117246
+#NOTE:Delete browserleaks.com
 payload:
   - DOMAIN,cpro.baidustatic.com
   - DOMAIN,p-bstarstatic.akamaized.net
@@ -2329,7 +2330,7 @@ payload:
   - DOMAIN-SUFFIX,boosj.com
   - DOMAIN-SUFFIX,bosera.com
   - DOMAIN-SUFFIX,broadcasthe.net
-  - DOMAIN-SUFFIX,browserleaks.com
+#  - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,bstatic.com
   - DOMAIN-SUFFIX,btcfans.com
   - DOMAIN-SUFFIX,btgtravel.com
