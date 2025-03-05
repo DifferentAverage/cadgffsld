@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX: 15
 # TOTAL: 16
 payload:
+  - DOMAIN-SUFFIX,twinmotion.com
   - DOMAIN-SUFFIX,battlebreakers.com
   - DOMAIN-SUFFIX,eac-cdn.com
   - DOMAIN-SUFFIX,easy.ac
