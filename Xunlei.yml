@@ -39,3 +39,4 @@ payload:
   - DOMAIN-SUFFIX,xunlei.net
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,DownloadSDKServer.exe

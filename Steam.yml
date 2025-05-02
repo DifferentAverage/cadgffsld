@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX: 51
 # TOTAL: 54
 payload:
+  - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,itbdon.xyz
   - PROCESS-NAME,steamwebhelper.exe
   - PROCESS-NAME,steamwebhelper.exe
