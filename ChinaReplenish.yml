@@ -1,3 +1,4 @@
 #ChinaReplenish
 payload:
+  - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,example.cc
