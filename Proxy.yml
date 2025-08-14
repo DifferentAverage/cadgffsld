@@ -1,3 +1,2 @@
 payload:
-#  - DOMAIN,analytics.strava.com
-#  - DOMAIN,blzddist1-a.akamaihd.net
+  - DOMAIN-SUFFIX,nexitally.com
