@@ -1,7 +1,6 @@
 #ChinaReplenish
 payload:
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,example.cc
+  - DOMAIN-SUFFIX,quickconnect.to
   - DOMAIN-SUFFIX,llyunc.cloud
   - DOMAIN-SUFFIX,razer.com
   - PROCESS-NAME,RazerAppEngine.exe
@@ -9,7 +8,3 @@ payload:
   - DOMAIN-SUFFIX,dcg.microsoft.com,DIRECT
   #outlook
   - DOMAIN-SUFFIX,nam12.safelinks.protection.outlook.com
-#Steam Download
-#  - DOMAIN-SUFFIX,steamcontent.com,DIRECT
-#  - PROCESS-NAME,steam.exe,Steam
-#  - DOMAIN-SUFFIX,steamserver.net,DIRECT
