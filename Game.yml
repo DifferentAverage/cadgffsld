@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,nikke-de.com
+  - DOMAIN-SUFFIX,nikke-fr.com
+  - DOMAIN-SUFFIX,nikke-global.com
+  - DOMAIN-SUFFIX,nikke-sea.com
+  - PROCESS-NAME,nikke_launcher.exe
+  - PROCESS-NAME,nikke.exe
